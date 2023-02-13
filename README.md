@@ -7,7 +7,7 @@
 - [使用YOLOv4，OpenCV, Tesseract OCR实现车牌识别](https://www.bilibili.com/video/BV1jy4y1q7rm)
 - [Yolo V5 Object Detection using Pytorch](https://www.youtube.com/watch?v=w1mY0XM_DUo)
 - [Face Mask Detection using Python, Keras, OpenCV and MobileNet | Detect masks real-time video streams（使用Python、Keras、OpenCV和MobileNet的人脸遮罩检测|检测遮罩实时视频流](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa0xYNTl4NUlVTG5sLWJpVHhCVERfZkRTd0Mwd3xBQ3Jtc0tseVEyRVpubFZ3SUpBN01uTG9yWjI5RHJhMTYzR1JfcGhsaFp0UDhCWXZtcjdldmJlYnRYVGxLQkNVdTN2dU1QMTNwaEJlNXo4dzNSdkdxeGZSelBzaXh5dllNUlBIQWZlc282bEt2Z3FHTXZOVUV3aw&q=https%3A%2F%2Fgithub.com%2Fbalajisrinivas%2FFace-Mask-Detection&v=Ax6P93r32KU)
-- [YOLOR Card Object Detection DEMO](https://youtu.be/vttJxYF-2gw)
+- [YOLOR Card Object Detection](https://youtu.be/vttJxYF-2gw)
 - [Fire detection / Disaster prevention / Real time / pythorch, python tutorial, opencv, yolov5火灾探测/灾难预防/实时python教程、opencv、yolov5](https://www.bilibili.com/video/BV1sf4y1j74g)
 - [YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors(YOLOv7:可训练的免费包为实时物体探测器树立了新的艺术境界)](https://www.bilibili.com/video/BV1rP41137jA)
 - [溺水检测](https://www.bilibili.com/video/BV17v411k7Ka)
@@ -17,7 +17,7 @@
 ## 目标跟踪
 
 - [YOLOv5实现多目标跟踪](https://www.bilibili.com/video/BV13L411W73T)
-- [使用dlib+opencv-python实现目标跟踪demo](https://www.bilibili.com/video/BV1BJ411y796)
+- [使用dlib+opencv-python实现目标跟踪](https://www.bilibili.com/video/BV1BJ411y796)
 - [一个具有判别力的单阶段分割跟踪器](https://www.youtube.com/watch?v=E3mN_hCRHu0)
 - [三维目标跟踪Monocular Quasi Dense 3D Object Tracking](https://www.youtube.com/watch?v=VnbeIwJCHlk)
 - [跟踪目标检测和分割：在线多对象跟踪器](https://www.youtube.com/watch?v=oGNtSFHRZJA)
@@ -51,7 +51,7 @@
 
 - [Show Me What and Tell Me How: Video Synthesis via Multimodal Conditioning](https://snap-research.github.io/MMVID/)
 - [Barbershop: GAN-based Image Compositing using Segmentation Masks](https://www.bilibili.com/video/BV1jP4y157x2)
-- [姿态可控人脸生成]([Pose-Controllable Talking Face Generation (CVPR 2021) - YouTube](https://www.youtube.com/watch?v=lNQQHIggnUg))
+- [姿态可控人脸生成](https://www.youtube.com/watch?v=lNQQHIggnUg)
 - [PIRenderer：通过语义神经渲染的可控肖像图像生成](https://www.bilibili.com/video/BV1Dh411p7gQ)
 - [可控人物图像合成的神经纹理提取和分布](https://www.bilibili.com/video/BV1nY411M7gN)
 
